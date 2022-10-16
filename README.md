@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 kwangrok21@korea.ac.kr
 
+👮‍ Download AP Tycoon 👮‍
+iOS - https://apps.apple.com/kr/app/id1547216402ㅇ
+android - https://play.google.com/store/apps/details?id=com.CookieFairy.AP_Tycoon 
+
 <!---
 Ryoo72/Ryoo72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
