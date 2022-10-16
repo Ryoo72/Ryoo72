@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 kwangrok21@korea.ac.kr
 
-👮‍ Download AP Tycoon 👮‍
-iOS - https://apps.apple.com/kr/app/id1547216402ㅇ
+👮‍ Download AP Tycoon 👮‍  
+iOS - https://apps.apple.com/kr/app/id1547216402  
 android - https://play.google.com/store/apps/details?id=com.CookieFairy.AP_Tycoon 
 
 <!---
