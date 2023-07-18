@@ -8,7 +8,7 @@
 iOS - https://apps.apple.com/kr/app/id1547216402  
 android - https://play.google.com/store/apps/details?id=com.CookieFairy.AP_Tycoon 
 
-☕️ moemoe cafe ☕️ 
+☕️ moemoe cafe ☕️  
 web - http://www.moemoechat.com/
 
 <!---
